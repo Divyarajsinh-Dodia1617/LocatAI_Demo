@@ -1,0 +1,31 @@
+{
+  "name": "locatai-demo",
+  "version": "1.0.0",
+  "description": "Playwright demo framework for saucedemo.com — showcasing best practices before LocatAI integration",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "test:login": "npx playwright test tests/login.test.ts",
+    "test:inventory": "npx playwright test tests/inventory.test.ts",
+    "test:cart": "npx playwright test tests/cart.test.ts",
+    "test:e2e": "npx playwright test tests/e2e/",
+    "test:locatai": "SELF_HEAL=1 npx playwright test tests/locatai/",
+    "test:locatai:headed": "SELF_HEAL=1 npx playwright test tests/locatai/ --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^22.15.0",
+    "dotenv": "^17.4.1",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@testnexus/locatai": "^1.7.0"
+  }
+}

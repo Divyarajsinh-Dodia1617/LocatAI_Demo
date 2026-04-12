@@ -1,0 +1,222 @@
+{
+  "fill::https://www.saucedemo.com/::Username input field": {
+    "type": "testid",
+    "value": "username",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Username input field"
+  },
+  "fill::https://www.saucedemo.com/::Password input field": {
+    "type": "testid",
+    "value": "password",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Password input field"
+  },
+  "click::https://www.saucedemo.com/::Login button": {
+    "type": "testid",
+    "value": "login-button",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Login button"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Add to cart button for the first product": {
+    "type": "testid",
+    "value": "add-to-cart-sauce-labs-backpack",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Add to cart button for the first product"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Shopping cart icon": {
+    "type": "css",
+    "value": null,
+    "selector": "a.shopping_cart_link",
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Shopping cart icon"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Link to Sauce Labs Backpack product": {
+    "type": "testid",
+    "value": "item-4-title-link",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Link to Sauce Labs Backpack product"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Add to cart button for Sauce Labs Backpack": {
+    "type": "testid",
+    "value": "add-to-cart-sauce-labs-backpack",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Add to cart button for Sauce Labs Backpack"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Shopping cart link": {
+    "type": "testid",
+    "value": "shopping-cart-link",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Shopping cart link"
+  },
+  "click::https://www.saucedemo.com/cart.html::Checkout button": {
+    "type": "testid",
+    "value": "checkout",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Checkout button"
+  },
+  "fill::https://www.saucedemo.com/checkout-step-one.html::First name input field": {
+    "type": "placeholder",
+    "value": null,
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": "First Name",
+    "exact": false,
+    "context": "First name input field"
+  },
+  "fill::https://www.saucedemo.com/checkout-step-one.html::Last name input field": {
+    "type": "testid",
+    "value": "lastName",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Last name input field"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Hamburger menu button": {
+    "type": "css",
+    "value": null,
+    "selector": "#react-burger-menu-btn",
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Hamburger menu button"
+  },
+  "click::https://www.saucedemo.com/cart.html::Remove button for the item in cart": {
+    "type": "testid",
+    "value": "remove-sauce-labs-backpack",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Remove button for the item in cart"
+  },
+  "fill::https://www.saucedemo.com/checkout-step-one.html::First name input": {
+    "type": "testid",
+    "value": "firstName",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "First name input"
+  },
+  "fill::https://www.saucedemo.com/checkout-step-one.html::Last name input": {
+    "type": "testid",
+    "value": "lastName",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Last name input"
+  },
+  "fill::https://www.saucedemo.com/checkout-step-one.html::Zip/Postal Code input with placeholder Zip/Postal Code": {
+    "type": "placeholder",
+    "value": null,
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": "Zip/Postal Code",
+    "exact": false,
+    "context": "Zip/Postal Code input with placeholder Zip/Postal Code"
+  },
+  "click::https://www.saucedemo.com/checkout-step-one.html::Continue button": {
+    "type": "testid",
+    "value": "continue",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Continue button"
+  },
+  "click::https://www.saucedemo.com/checkout-step-two.html::Finish button to complete the order": {
+    "type": "testid",
+    "value": "finish",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Finish button to complete the order"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Add to cart button for Sauce Labs Bike Light": {
+    "type": "testid",
+    "value": "add-to-cart-sauce-labs-bike-light",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Add to cart button for Sauce Labs Bike Light"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Open Menu button at top left": {
+    "type": "testid",
+    "value": "open-menu",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Open Menu button at top left"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Link to Sauce Labs Backpack product details": {
+    "type": "testid",
+    "value": "item-4-title-link",
+    "selector": null,
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Link to Sauce Labs Backpack product details"
+  },
+  "click::https://www.saucedemo.com/inventory.html::Logout sidebar link": {
+    "type": "css",
+    "value": null,
+    "selector": "#logout_sidebar_link",
+    "role": null,
+    "name": null,
+    "text": null,
+    "exact": null,
+    "context": "Logout sidebar link"
+  }
+}

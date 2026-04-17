@@ -2,7 +2,15 @@
   "permissions": {
     "allow": [
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(npm view *)",
+      "Bash(npm ls *)",
+      "Bash(npx playwright *)",
+      "Bash(SELF_HEAL=1 npx playwright test tests/locatai/)"
     ]
   }
 }
